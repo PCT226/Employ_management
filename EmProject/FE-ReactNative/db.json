@@ -1,0 +1,17 @@
+{
+    "account":
+    [{
+        "account_id": 1,
+        "username": "anh",
+        "password": "123456789",
+        "email": "anh0712@gmail.com"
+    },
+    {
+        "account_id": 2,
+        "username": "thanh",
+        "password": "987654321",
+        "email": "thanh124@gmail.com"
+    }
+
+]
+}
